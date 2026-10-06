@@ -36,7 +36,7 @@
 | [**mayoreo-f-cil**](https://github.com/JuanCarlosJimenezRoman/mayoreo-f-cil) | App para Tienda Nube. | JavaScript |
 | [**veterinaria**](https://github.com/JuanCarlosJimenezRoman/veterinaria) | Sistema de gestión para una veterinaria. | Laravel · Blade |
 
-📂 Más en mi [portafolio](https://github.com/JuanCarlosJimenezRoman/portafolio-jcjr).
+📂 Más en mi [portafolio](https://juancarlosjimenezroman.github.io/portafolio-jcjr/).
 
 ---
 
