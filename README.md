@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Juan Carlos 👋
 
-<!--
-**JuanCarlosJimenezRoman/JuanCarlosJimenezRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en México 🇲🇽 | Me interesa [tus temas]
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+- [Proyecto 1](https://github.com/JuanCarlosJimenezRoman/repo) – descripción breve
+
+### 📫 Contacto
+- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=JuanCarlosJimenezRoman&show_icons=true)
