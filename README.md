@@ -13,4 +13,6 @@ Desarrollador en México 🇲🇽 | Me interesa [tus temas]
 ### 📫 Contacto
 - LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Juan%20Carlos%20Jim%C3%A9nez%20Roman&custom_title=My%20GitHub%20Stats&langs_count=8&display_format=percent&theme=solarized-light)](https://wakatime.com/@Juan Carlos Jiménez Roman)
+
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=JuanCarlosJimenezRoman&show_icons=true)
