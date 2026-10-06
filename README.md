@@ -28,9 +28,9 @@
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**qr-generator**](https://github.com/JuanCarlosJimenezRoman/qr-generator) | Generador de códigos QR gratuito, sin registro y 100% privado. Open source. | React · TypeScript |
-| [**DevPilot**](https://github.com/JuanCarlosJimenezRoman/DevPilot) | _Describe aquí tu proyecto_ | TypeScript |
-| [**KREDIY-ERPCommunity**](https://github.com/JuanCarlosJimenezRoman/KREDIY-ERPCommunity) | ERP comunitario _(agrega una línea sobre qué gestiona)_ | TypeScript |
-| [**translate-movies**](https://github.com/JuanCarlosJimenezRoman/translate-movies) | Herramienta para traducir películas _(ajusta la descripción)_ | Python |
+| [**DevPilot**](https://github.com/JuanCarlosJimenezRoman/DevPilot) | Gestor de proyectos para implementar IA de forma gratuita usando chats Web | TypeScript |
+| [**KREDIY-ERPCommunity**](https://github.com/JuanCarlosJimenezRoman/KREDIY-ERPCommunity) | ERP comunitario | TypeScript |
+| [**translate-movies**](https://github.com/JuanCarlosJimenezRoman/translate-movies) | Herramienta para traducir películas  | Python |
 | [**Panel-Sensorial**](https://github.com/JuanCarlosJimenezRoman/Panel-Sensorial) | Panel sensorial para estimular el aprendizaje de niños con diversas discapacidades. | C++ · Arduino |
 | [**ESP32_Mesh**](https://github.com/JuanCarlosJimenezRoman/ESP32_Mesh) | Monitor de temperatura con una red mesh de ESP32. | ESP32 · HTML |
 | [**mayoreo-f-cil**](https://github.com/JuanCarlosJimenezRoman/mayoreo-f-cil) | App para Tienda Nube. | JavaScript |
